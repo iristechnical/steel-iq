@@ -1,1 +1,3 @@
-# steel-iq
+# Steel iQ
+
+## by Iris Technical
